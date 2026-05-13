@@ -1,5 +1,5 @@
 https://rustup.rs/</BR>
 
-*Commands:*</br>
+_Commands:_</br>
 cargo --version</br>
 rustc --version</br>
