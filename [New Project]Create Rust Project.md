@@ -4,3 +4,7 @@
 > src</br>
 rustc main.rs</br>
 main</br>
+
+or</br>
+cargo run</BR>
+cargo check</BR>
